@@ -5,6 +5,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app/ ./app/
 COPY data/survey_2024.parquet ./data/survey_2024.parquet
 ENV PORT=8080
+ENV PYTHONPATH=/app
 EXPOSE 8080
 CMD streamlit run app/streamlit_app.py \
     --server.port=$PORT --server.address=0.0.0.0 \
