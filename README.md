@@ -5,8 +5,8 @@ Survey (65,437 respondents). Deployed on Google Cloud Run.
 
 ## Live app
 
-- **Public URL:** _(added after deploy)_
-- **Short link:** _(added after deploy)_
+- **Public URL:** https://so-survey-app-910346116439.europe-central2.run.app
+- **Short link:** https://tinyurl.com/yuqlfalp
 
 ## What it does
 
