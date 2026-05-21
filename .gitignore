@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/raw/
+data/so2024.zip
+data/tt_*.csv
+.playwright-mcp/
+.DS_Store

@@ -1,0 +1,9 @@
+data/raw/
+data/so2024.zip
+data/tt_*.csv
+tests/
+docs/
+.git/
+__pycache__/
+.venv/
+.playwright-mcp/
